@@ -14,13 +14,17 @@ Convertidor de divisas utilizando el lenguaje Java.
   
   https://www.banguat.gob.gt/tipo_cambio/    
   
-  El dato del cambio del día, de Dólares Americanos (USD) a Quetzales (GTQ) usando los detalles de "Consultar los Web Services".
+  El dato del cambio del día, de Dólares Americanos (USD) a Quetzales (GTQ) usando los detalles de "Consultar los Web Services"
+  disponible en ese enlace, donde tambien podemos encontrar el documento de WSDL.
   
   Una vez logrado este avance y usando metodos similares, encontrar otras paginas Webs para ir agregando divisas a nuestro monedero.
   
   De momento solo se tienen registradas, las divisas: USD - Dólares Americanos, EUR - Euros, MXN - Pesos Mexicanos y GTQ - Quetzales.
   
-  Proximamente nuevas actualizaciones y si deseas alguna sugerencia o tips para mi desarrollo puedes escribirme a: orlando.diaz@gmx.com
+  Proximamente nuevas actualizaciones y si deseas hacerme alguna sugerencia, comentario o tips para mi desarrollo puedes escribirme a: 
+  <h3 align="center"> orlando.diaz@gmx.com </h3>
+  
+  De antemano, muchas gracias!
   
 </p>
     
