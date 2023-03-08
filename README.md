@@ -6,5 +6,5 @@ Convertidor de divisas utilizando el lenguaje Java.
 <p align= "center">
 <image src="https://user-images.githubusercontent.com/120668064/223710726-19b98929-7d33-4441-993b-e865a3675ddc.JPG">
 
-Aqui un detalle de la aplicación.
+  <h2 align="center">Aqui un detalle de la aplicación </h2>
 </p>
